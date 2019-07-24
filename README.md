@@ -10,6 +10,7 @@ npm install --save web-component-abstract
 ## Usage
 
 JavaScript:
+
 ```js
 const Component = require("web-component-abstract");
 
@@ -27,9 +28,11 @@ Hello.define("my-hello");
 ```
 
 HTML:
+
 ```html
 <my-hello name="Web Components"></my-hello>
 ```
 
 Output:
+
 Hello Web Components

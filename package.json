@@ -1,0 +1,27 @@
+{
+  "name": "web-component-abstract",
+  "version": "0.0.0",
+  "description": "Abstract class for creating web components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UziTech/web-component-abstract.git"
+  },
+  "keywords": [
+    "web-component",
+    "component"
+  ],
+  "author": "Tony Brix <Tony@Brix.ninja>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UziTech/web-component-abstract/issues"
+  },
+  "homepage": "https://github.com/UziTech/web-component-abstract#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
